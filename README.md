@@ -1,4 +1,4 @@
-# 👶 Digital Babysitter
+# 👶 Baby Milestone OS
 
 > An AI agent that helps parents manage child routines, suggests age-appropriate activities, and sends smart alerts when things need attention.
 
